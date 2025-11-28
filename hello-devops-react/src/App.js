@@ -15,7 +15,7 @@ function App() {
 
       <div className='text' >
 
-        <p>Szöveg hozzáadása</p>
+        <p>Ez az alkalmazás a GDE DevOps kurzusához készült.</p>
 
       </div>
     </div>
