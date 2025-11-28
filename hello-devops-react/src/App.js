@@ -8,7 +8,7 @@ function App() {
 
         <img src="https://gde.hu/img/GDE_logo.png" alt="E Logo" width="200" />
 
-        <h1> Cím hozzáadása</h1>
+        <h1> Hello DevOps! </h1>
 
 
       </div>
