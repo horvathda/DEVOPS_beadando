@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className='title'>
 
-        <img src="https://gde.hu/img/GDE_logo.png" alt="E Logo" width="200" />
+        <img src="./assets/GDE_logo_feher.png" alt="GDE Logo" width="200" />
 
         <h1> Hello DevOps! </h1>
 
